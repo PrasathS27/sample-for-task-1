@@ -18,10 +18,10 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          We're excited to have you here
+          Your journey starts now!
         </p>
 
-        <div className={styles.grid}>
+        {/* <div className={styles.grid}>
           <div className={styles.card}>
             <h2>About Us &rarr;</h2>
             <p>Learn more about our project and what we do.</p>
@@ -41,7 +41,7 @@ const Home: NextPage = () => {
             <h2>Contact &rarr;</h2>
             <p>Get in touch with our team for support.</p>
           </div>
-        </div>
+        </div> */}
       </main>
     </div>
   );
